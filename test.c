@@ -2,6 +2,8 @@
 
 int main()
 {
-	printf("testing..\n");
+	printf("new\n");)
+
+
 	return 0;
 }
